@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fffefc"/>
+  <rect x="780" width="420" height="630" fill="#0d6259"/>
+  <circle cx="1000" cy="315" r="230" fill="none" stroke="#2b7c70" stroke-width="1"/>
+  <circle cx="1000" cy="315" r="176" fill="none" stroke="#2b7c70" stroke-width="1"/>
+  <circle cx="1000" cy="315" r="122" fill="none" stroke="#2b7c70" stroke-width="1"/>
+  <path d="M0 602H780" stroke="#e8e9e3"/>
+  <rect x="80" y="74" width="68" height="54" fill="#0d6259"/>
+  <text x="114" y="110" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="1" fill="#fffefc">KCA</text>
+  <text x="171" y="105" font-family="Arial,sans-serif" font-size="19" font-weight="600" fill="#133b36">KHKM Consulting Africa</text>
+  <circle cx="88" cy="195" r="4" fill="#db641e"/>
+  <text x="106" y="200" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#0d6259">CABINET DE CONSEIL · ABIDJAN-PLATEAU</text>
+  <text x="80" y="304" font-family="Georgia,serif" font-size="65" fill="#133b36">Des chiffres clairs.</text>
+  <text x="80" y="384" font-family="Georgia,serif" font-size="65" font-style="italic" fill="#0d6259">Des décisions</text>
+  <text x="80" y="464" font-family="Georgia,serif" font-size="65" fill="#133b36">qui avancent.</text>
+  <text x="82" y="530" font-family="Arial,sans-serif" font-size="17" fill="#657371">Comptabilité · Fiscalité · Ingénierie financière · Audit</text>
+  <rect x="862" y="151" width="276" height="254" rx="10" fill="#fffefc"/>
+  <text x="896" y="194" font-family="Arial,sans-serif" font-size="14" font-weight="600" fill="#52635f">Votre activité</text>
+  <path d="M895 241H1104M895 288H1104M895 335H1104" stroke="#edf0ea"/>
+  <path d="M895 334C932 320 945 303 971 309S1010 282 1034 290S1073 254 1104 236V355H895Z" fill="#d9eee6"/>
+  <path d="M895 334C932 320 945 303 971 309S1010 282 1034 290S1073 254 1104 236" fill="none" stroke="#0d6259" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1104" cy="236" r="7" fill="#db641e" stroke="#fffefc" stroke-width="3"/>
+  <circle cx="1075" cy="458" r="52" fill="#db641e"/>
+  <text x="1075" y="453" text-anchor="middle" font-family="Georgia,serif" font-size="16" fill="#fffefc">Le conseil</text>
+  <text x="1075" y="474" text-anchor="middle" font-family="Georgia,serif" font-size="16" fill="#fffefc">qui compte</text>
+</svg>

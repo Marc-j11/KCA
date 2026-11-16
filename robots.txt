@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kca-domaine-a-remplacer.example/sitemap.xml
