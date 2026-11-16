@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kca-domaine-a-remplacer.example/sitemap.xml
+Sitemap: https://khkm-consulting.pages.dev/sitemap.xml
